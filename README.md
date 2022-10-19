@@ -12,7 +12,7 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 
-	TM "example/website/templateManagerGin"
+	TM "github.com/paul-norman/go-template-manager-gin"
 )
 
 func main() {
